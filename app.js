@@ -119,7 +119,7 @@ $(document).ready(function () {
        
        
        //Loop over object to ger daily weather
-       for (i = 1; i < 6; i++){
+       for (i = 1; i < 8; i++){
         var uiCard = $("<div>").addClass("card");
         var contentData = $("<div>").addClass("content");
         var avatar = $("<div>").addClass("avatar");
